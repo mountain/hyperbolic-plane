@@ -33,6 +33,8 @@ And conversions among them
 * Point where two line cross at 
 * Line which is parallel through a point with another line
 * Line which is perpendicular at a point with another line
+* mirrow relection through a line
+* rotation at a point
 * ....
 
 ### visulization
