@@ -1,4 +1,4 @@
-# hyperbolic-plane
+# hyperbolic-plane-toolkit
 toolkit for calculating and drawing points and lines on hyperbolic plane
 
 ## TODOs
